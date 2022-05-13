@@ -1,10 +1,10 @@
-# Starta Systems | Coming Soon Website
+# Starta Systems | Website Oficial
 
-> This is our Creative Responsive Coming Soon/Under Construction html page fully responsive, it is built on Bootstrap 4+ Framework and css3.
+> Main Website & Application, Version: 1.2.0 | PWA. This is our main fully responsive website, built on web3 with Ethereum.
 
 ## Tecnologies
 
-- HTML5, CSS3
+- Ethereum, Javascript, HTML5, CSS3
 
 ## Screenshots
 
@@ -16,7 +16,7 @@
 
 [![Contact](./media/prints/print-4.jpg)](https://startasystems.github.io/?from=github)
 
-### Copyright (C) 2019 Starta Systems
+### Copyright (C) 2022 Starta Systems
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
