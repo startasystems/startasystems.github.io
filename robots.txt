@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /phishing-detect/
+Disallow: /media/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://starta.systems/sitemap.xml
