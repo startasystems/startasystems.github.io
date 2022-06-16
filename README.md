@@ -1,6 +1,6 @@
 # Starta Systems | Website Oficial
 
-> Main Website & Application, Version: 1.3.5 | PWA. This is our main fully responsive website, built on web3 with Ethereum.
+> Main Website & Application, Version: 1.3.6 | PWA. This is our main fully responsive website, built on web3 with Ethereum.
 
 ## Tecnologies
 
